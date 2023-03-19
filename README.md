@@ -62,11 +62,11 @@ developing your own process.
 
 - Add a new toy when the toy form is submitted
 
-  - How I debugged:
+  - How I debugged:by first trying to add a new to in the provided form and studying the error provided in the network tab, the went ahead and included the create method in the controller as well as  a route
 
 - Update the number of likes for a toy
 
-  - How I debugged:
+  - How I debugged:tried to add likes, the followed the error , ended up creating a method to add likes
 
 - Donate a toy to Goodwill (and delete it from our database)
 
